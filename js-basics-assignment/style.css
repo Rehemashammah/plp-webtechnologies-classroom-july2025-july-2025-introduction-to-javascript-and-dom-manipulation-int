@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;;
+}
+
+h1{
+    color: #333;
+}
+
+section{
+    margin:20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
